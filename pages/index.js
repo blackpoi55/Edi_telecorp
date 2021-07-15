@@ -5,7 +5,7 @@ import Layout from './Layoutza/Layout'
 export default function Home() {
   return (
   <Layout>
-     EDI
+      EDI
   </Layout>
   )
 }
